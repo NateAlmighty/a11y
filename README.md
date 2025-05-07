@@ -1,2 +1,1 @@
-# Static Mirror of a11y.10web.me
-Deployed using HTTrack + GitHub Pages
+# Personal Portfolio Site of Nathan Delk
